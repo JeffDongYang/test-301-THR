@@ -1,2 +1,3 @@
-# test-301-Tue
-Demo repo for Tuesday lab
+# thursday-lab-4
+Git tutorial for lab 4
+I'm having fun
